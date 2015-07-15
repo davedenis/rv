@@ -1,0 +1,34 @@
+[{
+  "manufacturer": "Thor Motor Coach",
+  "model": "27.1",
+  "brand": "A.C.E.",
+  "year": "2016",
+  "chassis": "Ford F-53",
+  "engine": "6.8L V10 362HP 457 lb-ft Torque",
+  "fuel type": "gas",
+  "GVWR": 16000,
+  "GCWR": 23000,
+  "wheelbase": 178,
+  "length": 28.8,
+  "exterior length": 12.2,
+  "exterior width": 8.3,
+  "interior height": 7.0,
+  "awning": 14,
+  "fuel tank": 80,
+  "propane": 88,
+  "water heater": 6,
+  "furnace": 30000,
+  "exterior storage": 80,
+  "trailer hitch rating": 8000,
+  "sleeping capacity": 6,
+  "passenger capacity": 5,
+  "water": {
+     "fresh": 50,
+     "black": 29,
+     "gray": 44
+  }
+},
+
+
+
+]
