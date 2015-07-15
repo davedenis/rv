@@ -1,0 +1,36 @@
+[{
+  "manufacturer": "Fleetwood RV",
+  "model": "33C",
+  "brand": "Bounder",
+  "year": "2016",
+  "chassis": "Ford F-53",
+  "engine": "6.8L V10 362HP 457 lb-ft Torque",
+  "fuel type": "gas",
+  "GVWR": 22000,
+  "GCWR": 26000,
+  "wheelbase": 208,
+  "length": 34.3,
+  "exterior height": 12.10,
+  "exterior width": 8.6,
+  "interior height": 7.0,
+  "awning": 17,
+  "fuel tank": "???",
+  "propane": "25",
+  "water heater": 10,
+  "furnace": 30000,
+  "interior storage": 123,
+  "exterior storage": 160,
+  "trailer hitch rating": 5000,
+  "hitch tongue weight": 500,
+  "sleeping capacity": "???",
+  "passenger capacity": "???",
+  "water": {
+     "fresh": 100,
+     "black": 42,
+     "gray": 58
+  }
+},
+
+
+
+]
