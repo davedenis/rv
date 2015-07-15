@@ -1,0 +1,67 @@
+{
+	"manufacturer":"Thor Motor Coach",
+	"brand":"A.C.E.",
+	"year":"2016",
+
+	"chassis":"Ford F-53",
+	"engine":"6.8L V10 362HP 457 lb-ft Torque",
+	"fuel":"gas",
+	"fuel tank (gallons)":80,
+	"propane (gallons)":88,
+	
+	"exterior height":
+	{
+		"feet":12,
+		"inches":2
+	},
+	"interior height":
+	{
+		"feet":7,
+		"inches":0
+	},
+
+
+	"water heater (gallons)":6,
+	"trailer hitch rating (lbs)":8000,
+	"exterior width (inches)":99,
+
+	"floor plans / models":
+	{
+		"model": [
+		{
+			"name":"27.1",
+			"length":
+			{
+				"feet":28,
+				"inches":8
+			},
+			"GVWR (lbs)":16000,
+			"wheelbase (inches)":178,
+			"furnace (BTU)":30000,
+			"exterior storage (cu. ft.)":80,
+			"sleeping capacity":6,
+			"awning size (feet)":14,
+
+			"water":
+			{
+				"fresh":50,
+				"black":29,
+				"gray":44,
+			}
+		}],
+
+
+
+		"model":
+		{
+			"name":"30.2 Bunkhouse",
+			"length":
+			{
+				"feet":31,
+				"inches":5
+			},
+			"GVWR (lbs)":18000,
+			"wheelbase (inches)":190,
+		},
+
+}
