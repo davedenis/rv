@@ -1,0 +1,41 @@
+[{
+  "manufacturer": "Keystone RV",
+  "brand": "Bounder",
+  "type": "Fifth Wheel",
+  "model": "3791RD",
+  "year": "2016",
+  
+  "chassis": "NA",
+  "engine": "NA",
+  "fuel type": "NA",
+  "GVWR": "NA",
+  "GCWR": "NA",
+  "wheelbase": "NA",
+
+  "tire size": "ST235/80R16E",
+  "weight": 13225,
+  "length": 41.6,
+  "exterior height": 13.5,
+  "exterior width": "???",
+  "interior height": "???",
+  "awning": "???",
+  "fuel tank": "???",
+  "propane": 60,
+  "water heater": 12,
+  "furnace": 35000,
+  "interior storage": "???",
+  "exterior storage": "???",
+  "trailer hitch rating": 2960,
+  "hitch tongue weight": "???",
+  "sleeping capacity": "???",
+  "passenger capacity": "???",
+  "water": {
+     "fresh": 66,
+     "black": 50,
+     "gray": 93
+  }
+},
+
+
+
+]
